@@ -1,0 +1,11 @@
+.eslintignore
+.eslintrc.js
+lib/index.js
+**/*.test.js
+**/*.test.d.ts
+**/*.test.d.js
+jest.config.js
+tsconfig.json
+src
+.prettierrc.yaml
+.github

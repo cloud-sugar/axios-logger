@@ -1,0 +1,6 @@
+*.orig
+*.swp
+.DS_Store
+dist
+lib
+node_modules
