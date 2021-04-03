@@ -15,10 +15,10 @@
   "author": "Craig Younker <cyounker@cloudsugar.net>",
   "license": "ISC",
   "devDependencies": {
-    "@types/axios": "^0.14.0",
     "@types/jest": "26.0.22",
     "@typescript-eslint/eslint-plugin": "4.20.0",
     "@typescript-eslint/parser": "4.20.0",
+    "axios": "0.21.1",
     "eslint": "7.23.0",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-jest": "24.3.2",
@@ -38,9 +38,7 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {
-    "axios": "0.21.1"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cloud-sugar/axios-logger.git"
